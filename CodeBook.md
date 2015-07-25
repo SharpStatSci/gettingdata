@@ -1,4 +1,5 @@
-# CodeBook.md, repo: getting data
+# CodeBook.md
+##repo: getting data
 
 ##Repo for Coursera Getting and Cleaning Data Class
 ##This CodeBook describes the data in file: tidy.txt
@@ -41,16 +42,13 @@
 [85] "fBodyAccMag.std.."                    "fBodyBodyAccJerkMag.std.."  
 
 
-## Original Data - http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones
+### Original Data - http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones
 Abstract: Human Activity Recognition database built from the recordings of 30 subjects performing activities of 
 daily living (ADL) while carrying a waist-mounted smartphone with embedded inertial sensors.
 	
 *Data Set Characteristics:  	
 *Multivariate, Time-Series
-*Number of Instances:
-*10299
-*Number of Attributes:	
-*561	
-*Missing Values?	
-*N/A
+*Number of Instances: 10299
+*Number of Attributes: 561	
+
 	

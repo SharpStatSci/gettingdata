@@ -1,4 +1,5 @@
-# README.md, repo:gettingdata
+# README.md
+##repo:gettingdata
 
 ##Repo for Coursera Getting and Cleaning Data Class
 ##Class Project
@@ -12,6 +13,7 @@ Demonstrate data cleaning ability
 	* 3. Codebook in markdown and a README should also be in the repo
 
 Dataset: UCI_HAR test+train files
+
 	* A. Merge test and train
 	* B. Extract only mean and standard deviation for each measure
 	* C. Add descriptive variable names, dataset name
